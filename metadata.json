@@ -1,0 +1,5 @@
+{
+  "name": "Image to HTML Converter",
+  "description": "An application that uses the Gemini API to convert text from an uploaded image into structured HTML code, with a preview.",
+  "requestFramePermissions": []
+}
